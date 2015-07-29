@@ -325,10 +325,10 @@
 	</WageWindow>
 	<LoanWindow>
 		<Item Name="Amount">Montant</Item>
-		<Item Name="Interest">Intérêtt</Item>
+		<Item Name="Interest">Intérêt</Item>
 		<Item Name="Period">Période</Item>
 		<Item Name="Current loans">Prêts en cours</Item>
-		<Item Name="Take loan">Faire un prêt</Item>
+		<Item Name="Take loan">Faire un emprunt</Item>
 	</LoanWindow>
 	<InsuranceWindow>
 		<Item Name="Deposit">Déposer</Item>
@@ -337,7 +337,7 @@
 		<Item Name="HealthInsurance">Assurance santé : Attire les jeunes employés/employées</Item>
 		<Item Name="LifeInsurance">Assurance vie : attire les employés/employées de tranche d'âge moyen</Item>
 		<Item Name="PensionDesc">Retraite : attire les employés/employées senior</Item>
-		<Item Name="PerEmployee">par employés/employées<Item>
+		<Item Name="PerEmployee">par employés/employées</Item>
 	</InsuranceWindow>
 	<StockWindow>
 		<Item Name="SharesIn">Parts dans l'entreprise :</Item>
@@ -606,7 +606,7 @@ Vous devez désigner des locaux pour cette équipe pour que le meneur d'équipe 
 Voulez-vous vraiment continuer ?</Item>
 		<Item Name="ProductLicenseError">Vous n'avez pas assez pour payer les frais de licence</Item>
 		<Item Name="DistributionNameError">Ce nom est déjà utilisé</Item>
-		<Item Name="DistributionServerError">Veuillez choisir un serveur/Item>
+		<Item Name="DistributionServerError">Veuillez choisir un serveur</Item>
 		<Item Name="DistributionNameWarning">Étes-vous sûr du nom {0} pour votre réseau de distribution ? Vous ne pourrez le changer par la suite</Item>
 		<Item Name="DistributionOfflineWarning">Voulez-vous vraiment le mettre hors-ligne ? Vos clients et les utilisateurs seront mécontents</Item>
 		<Item Name="EmployeeCourseBookError">Ce ou ces personnes sont déjà occupées.</Item>
