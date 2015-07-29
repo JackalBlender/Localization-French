@@ -270,7 +270,7 @@ La majorité des logiciel dépendent d'un OS pour fonctionner. Lorsque les gens 
 		</Features>
 	</Software>
 	<Software Name="Embedded System">
-		<Name>Systèmes intégrés</Name>
+		<Name>Système intégré</Name>
 		<Description></Description>
 		<Features>
 			<Feature Name="Clock">
